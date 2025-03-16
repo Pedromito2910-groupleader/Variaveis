@@ -1,2 +1,2 @@
-# LAB_10
+# Variaveis
 ## Algoritimo que mostra como se aplica as variáveis em Python.
